@@ -1,0 +1,5 @@
+name= input("Enter your name: ")
+age= input("Enter your age: ")
+print("Hello"+name+ "! Congratulations for making it to"+age)
+department= input("Which department do you belong to:")
+print(department)
